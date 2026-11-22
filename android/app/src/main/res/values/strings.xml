@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Рецепт в кармане</string>
+    <string name="title_activity_main">Рецепт в кармане</string>
+    <string name="package_name">ru.example.receptvkarmane</string>
+    <string name="custom_url_scheme">ru.example.receptvkarmane</string>
+</resources>
